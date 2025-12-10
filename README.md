@@ -87,12 +87,3 @@ Our mission is to enable developers of all experience levels to create and share
 - [Discord](https://discord.gg/FepAked3W7) - Come chat with the community
 - [Github](https://github.com/mnfst/manifest/issues) - Report bugs and share ideas to improve the product.
 
-## Contributors
-
-We welcome contributions to Manifest, Please see our [Contributing Guidelines](./CONTRIBUTING.md) to get started and join the journey.
-
-Thanks to our first wonderful contributors!
-
-<a href="https://github.com/mnfst/manifest/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mnfst/manifest" />
-</a>
